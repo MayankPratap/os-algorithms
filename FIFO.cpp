@@ -6,7 +6,7 @@ using namespace std;
 int main(){
   
     int nframes,npages;   // Number of frames in Main Memory  and Number Of Pages
-    vector<int>pages;     // Reference vector of pages
+   
     int x;
 
     cout<<"Enter number of frames\n";
